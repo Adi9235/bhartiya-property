@@ -6,10 +6,10 @@ consultancy operating in Ghaziabad, Uttar Pradesh since 2000.
 Built for four jobs: Meta Business verification, Razorpay/Cashfree business verification, Google
 local SEO, and lead generation.
 
-- **Udyam Registration:** UDYAM-UP-29-0156958
-- **NIC classification:** 68200 — Real estate activities on a fee or contract basis
-- **Head office:** 7/9, Site-2, Industrial Area, Karehra, Mohan Nagar, Ghaziabad, UP 201007
-- **Phone:** +91 81785 56116
+- **Udyam Registration:** 
+- **NIC classification:** 
+- **Head office:** 
+- **Phone:**
 
 ---
 
