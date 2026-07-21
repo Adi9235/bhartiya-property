@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" role="presentation">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2A3C83"/>
+      <stop offset="100%" stop-color="#0D1433"/>
+    </linearGradient>
+    <linearGradient id="haze" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D8291B" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#D8291B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <circle cx="1240" cy="230" r="150" fill="url(#haze)"/>
+  <!-- distant industrial skyline -->
+  <g fill="#FAF7F2" opacity="0.10">
+    <rect x="40" y="520" width="150" height="380"/>
+    <rect x="210" y="600" width="90" height="300"/>
+    <rect x="320" y="470" width="180" height="430"/>
+    <rect x="520" y="560" width="120" height="340"/>
+    <rect x="660" y="430" width="200" height="470"/>
+    <rect x="880" y="540" width="110" height="360"/>
+    <rect x="1010" y="490" width="170" height="410"/>
+    <rect x="1200" y="580" width="130" height="320"/>
+    <rect x="1350" y="450" width="210" height="450"/>
+  </g>
+  <!-- factory sheds and chimneys -->
+  <g fill="#FAF7F2" opacity="0.16">
+    <path d="M180 780h240l-40-70H220z"/>
+    <path d="M460 800h300l-50-80H510z"/>
+    <path d="M820 790h260l-44-74H864z"/>
+    <path d="M1140 805h280l-48-78H1188z"/>
+    <rect x="392" y="600" width="26" height="180"/>
+    <rect x="742" y="580" width="26" height="220"/>
+    <rect x="1102" y="596" width="26" height="200"/>
+  </g>
+  <!-- roadway -->
+  <g opacity="0.22">
+    <path d="M0 900 L640 700 L960 700 L1600 900 Z" fill="#FAF7F2" opacity="0.08"/>
+    <g fill="#FAF7F2" opacity="0.35">
+      <rect x="792" y="716" width="16" height="42"/>
+      <rect x="792" y="782" width="16" height="52"/>
+      <rect x="792" y="856" width="16" height="44"/>
+    </g>
+  </g>
+</svg>

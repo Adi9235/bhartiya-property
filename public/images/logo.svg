@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 72" width="96" height="72" role="img" aria-label="Bhartiya Property">
+  <g fill="none" stroke="#D8291B" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 40C14 16 34 4 52 4c18 0 32 9 40 22" stroke-width="6"/>
+    <path d="M10 66V40l17-13 17 13v26" stroke-width="5"/>
+    <path d="M52 66V44l16-12 16 12v22" stroke-width="5"/>
+    <path d="M2 68h92" stroke-width="4"/>
+  </g>
+  <rect x="21" y="46" width="12" height="20" rx="2" fill="#1C2A6B"/>
+  <rect x="62" y="48" width="12" height="18" rx="2" fill="#1C2A6B"/>
+</svg>
